@@ -1,18 +1,14 @@
-## Hi there 👋
+## Hello!
 
-asd
+I'm Mert Arık, a Software Developer and a High School Student based on Turkey.
 
-<!--
-**Mertarikkk/Mertarikkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning Flutter and Java.
+I can build and design Whatever I image.
+For now i dont have any projects.
 
-Here are some ideas to get you started:
+How to reach me: 📫 enbiyamertarik@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun Facts:
+ ・ I love coffee and tea.
+ ・ I am Bulgarian Turkish.
+ ・ Hobbies: gym, playing games, walking.
