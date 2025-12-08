@@ -1,28 +1,46 @@
-## Hello!
+## 👋 Hi there, I'm Mert Arık
 
-I'm Mert Arık, a Software Developer and a High School Student based on Turkey.
-
-I'm currently learning Flutter and Java.
-
-
-I can build and design Whatever I image.
+I'm a Software Developer and a High School Student based in Turkey.
+Currently learning Flutter and Java, and always excited to build whatever I can imagine.
 
 
-For now i dont have any projects.
+---
+
+🚀 About Me
+
+💻 Passionate about mobile development
+
+🎨 I love building and designing apps
+
+🔧 Still working on my first official project (coming soon!)
 
 
 
-How to reach me: 📫 enbiyamertarik@gmail.com
+---
 
-Fun Facts:
+📚 What I'm Learning
+
+Flutter
+
+Java
+
+UI/UX basics
 
 
- ・ I love coffee and tea.
 
- 
- ・ I am Bulgarian Turkish.
+---
 
- 
- ・ Hobbies: gym, playing games, walking.
+📫 Contact
 
- 
+Email: enbiyamertarik@gmail.com
+
+
+---
+
+🎉 Fun Facts
+
+☕ I love both coffee and tea
+
+🌍 I am Bulgarian–Turkish
+
+🏋️ Hobbies: gym, gaming, walking
