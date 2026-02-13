@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Mert Arık
 
 I'm a Software Developer and a High School Student based in Turkey.
-Currently learning HTML, CSS, JS and always excited to build whatever I can imagine.
+Currently learning Flutter, and always excited to build whatever I can imagine.
 
 
 ---
@@ -10,7 +10,7 @@ Currently learning HTML, CSS, JS and always excited to build whatever I can imag
 
 💻 Passionate about Frontend
 
-🎨 I love building and designing web pages
+🎨 I love building and designing mobile apps
 
 🔧 Still working on my first official project (coming soon!)
 
@@ -20,11 +20,9 @@ Currently learning HTML, CSS, JS and always excited to build whatever I can imag
 
 📚 What I'm Learning
 
-HTML
+Flutter
 
-CS
-
-JS
+Java
 
 UI/UX basics
 
