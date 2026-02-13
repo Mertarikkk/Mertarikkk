@@ -8,7 +8,7 @@ Currently learning Flutter, and always excited to build whatever I can imagine.
 
 🚀 About Me
 
-💻 Passionate about Frontend
+💻 Passionate about Mobile Apps
 
 🎨 I love building and designing mobile apps
 
